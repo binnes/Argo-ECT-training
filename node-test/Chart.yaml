@@ -1,0 +1,4 @@
+apiVersion: v2
+version: 0.1.0
+name: node-test
+description: Chart to configure ArgoCD with the node-test project and its applications
